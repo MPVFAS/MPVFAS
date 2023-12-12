@@ -1,6 +1,1 @@
-runner:
-  name: "mpvfas"
-  working_directory: "/Users/$USER/Library/com.circleci.runner/workdir"
-  cleanup_working_directory: true
-api:
-  auth_token: CCCIPAT_K7zC3a3xxdbb5mQLHB47Xd_c39813efcae77ec8a1b1b0ff505988f66d07fc4f
+

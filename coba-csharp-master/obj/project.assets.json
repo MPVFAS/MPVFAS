@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/stavolist/mpvfas/mpvfas/.git/coba-csharp-master/coba-csharp-master.csproj",
+      "projectUniqueName": "/Users/stavolist/Downloads/gitrepo/coba-csharp-master/coba-csharp-master.csproj",
       "projectName": "coba-csharp-master",
-      "projectPath": "/Users/stavolist/mpvfas/mpvfas/.git/coba-csharp-master/coba-csharp-master.csproj",
+      "projectPath": "/Users/stavolist/Downloads/gitrepo/coba-csharp-master/coba-csharp-master.csproj",
       "packagesPath": "/Users/stavolist/.nuget/packages/",
-      "outputPath": "/Users/stavolist/mpvfas/mpvfas/.git/coba-csharp-master/obj/",
+      "outputPath": "/Users/stavolist/Downloads/gitrepo/coba-csharp-master/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/stavolist/.nuget/NuGet/NuGet.Config"

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/coba-csharp-master.props" />
+</Project>

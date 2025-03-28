@@ -5,6 +5,6 @@ Hola!!
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
   
-System-Informations-Maps-Litrature-Business-Computing-Software-Engineering-Product-Development-WorkFlow-Detailed-Guide 2024.pdf <!---
-MPVFAS/MPVFAS is a ✨ special ✨ repository because its `README.md` 
+System-Informations-Maps-Litrature-Business-Computing-Software-Engineering-Product-Development-WorkFlow-Detailed-Guide.pdf <!---
+ `README.md` 
 --->
